@@ -50,4 +50,3 @@ I've spent my career doing the work that's hard to title cleanly: translating bu
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-gauthamhegde-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/gauthamhegde)
 &nbsp;
-[![Email](https://img.shields.io/badge/Email-gautham.hegde.sf%40gmail.com-D14836?style=flat&logo=gmail)](mailto:gautham.hegde.sf@gmail.com)
